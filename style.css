@@ -1,0 +1,17 @@
+
+/* Set up all Item are BLUE */
+body{
+    background-color: #ddd;
+}
+.item {
+    color: blue;
+}
+
+/* List 1 - item 1 to RED */
+.list1 .item1{
+    color: red;
+}
+ /* lis1 -item2 yelloww */
+.list1 .item2 {
+    color: aqua;
+}
