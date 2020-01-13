@@ -1,3 +1,21 @@
 .container{
     display: flex;
+    background-color: #dddddd;
+}
+
+.menu1{
+    background-color: blue;
+    flex-basis: 25%;
+}
+.menu2{
+    background-color: red;
+    flex-basis: 25%;
+}
+.menu3{
+    background-color: green;
+    flex-basis: 25%;
+}
+.menu4{
+    background-color: grey;
+    flex-basis: 25%;
 }
